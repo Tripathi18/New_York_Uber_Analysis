@@ -9,7 +9,6 @@ Make sure you have the following packages installed:
 - numpy
 - matplotlib
 - seaborn
-- folium
 
 ## Usage
 
